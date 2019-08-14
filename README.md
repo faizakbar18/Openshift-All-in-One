@@ -46,7 +46,7 @@ nano /etc/ansible/hosts
 ```
 - Run Deploy Cluster Playbook
 ```
-ansible-playbook /usr/share/ansible/openshift-ansible/playbooks/deploy_cluster.ym
+ansible-playbook /usr/share/ansible/openshift-ansible/playbooks/deploy_cluster.yml
 ```
 
 **When done will like this**
